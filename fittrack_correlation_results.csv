@@ -1,0 +1,7 @@
+Relationship,Correlation,Strength
+Steps vs. Exercise,0.566,Moderate
+Steps vs. Sleep,0.187,Very weak
+Exercise vs. Sleep,0.068,Very weak
+Exercise vs. Resting HR,-0.268,Weak
+Steps vs. Calories,0.669,Strong
+Exercise vs. Calories,0.772,Strong
